@@ -1,7 +1,7 @@
 # Auditchain
 
 ## Intro
-This repository is the automated code for AWS Cloud deployment and performance measurement of AuditChain, a private blockchain system.
+This is a repository for explanations about auditchain. The code for auditchain is the property of my lab (SSLAB in POSTECH) and is not publicly available.
 
 ## About AuditChain: a Private Blockchain Platform 
 AuditChain is a private blockchain system using PBFT-like consensus with linear communication complexity, assuming a partially synchronous network. While the traditional PBFT consensus algorithm is monolithic, block generation steps are separated from the consensus layer in AuditChain.
