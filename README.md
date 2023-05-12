@@ -3,7 +3,7 @@
 ## Intro
 This is a repository for explanations about AuditChain. The code for auditchain is the property of my lab (SSLAB in POSTECH) and is not publicly available.
 
-## About AuditChain: a Private Blockchain Platform 
+## AuditChain: a Private Blockchain Platform 
 AuditChain is a private blockchain system using PBFT-like consensus with linear communication complexity, assuming a partially synchronous network. While the traditional PBFT consensus algorithm is monolithic, block generation steps are separated from the consensus layer in AuditChain.
 
 <p align="center">
